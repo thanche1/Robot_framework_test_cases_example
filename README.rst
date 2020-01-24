@@ -1,4 +1,6 @@
-How to write good test case
+How to write good test case (by 
+@pekkaklarck
+pekkaklarck)
 ===========================
 
 This project documents general guidelines for writing good test cases using
